@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "24/7bot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "Shadow_gameing",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "alikhan0000-ijKe.aternos.me",
+    "port": 17764,
     "version": "1.21.1"
   },
   "position": {
